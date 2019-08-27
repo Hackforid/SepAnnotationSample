@@ -1,0 +1,2 @@
+include ':app', ':annotation', ':compiler', ':testlib'
+rootProject.name='SepApt'
